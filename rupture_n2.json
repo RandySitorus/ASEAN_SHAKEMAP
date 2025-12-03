@@ -1,0 +1,99 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "reference": "Manila Trench N2 rupture model (ChatGPT-generated geometry)."
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "rupture type": "rupture extent",
+        "fault_name": "Manila Trench - N2 Segment"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                119.5,
+                19.3,
+                5.0
+              ],
+              [
+                119.5,
+                19.6,
+                5.0
+              ],
+              [
+                119.5,
+                19.9,
+                5.0
+              ],
+              [
+                119.5,
+                20.2,
+                5.0
+              ],
+              [
+                119.5,
+                20.5,
+                5.0
+              ],
+              [
+                119.5,
+                20.8,
+                5.0
+              ],
+              [
+                119.5,
+                21.1,
+                5.0
+              ],
+              [
+                119.55,
+                21.1,
+                31.2
+              ],
+              [
+                119.55,
+                20.8,
+                31.2
+              ],
+              [
+                119.55,
+                20.5,
+                31.2
+              ],
+              [
+                119.55,
+                20.2,
+                31.2
+              ],
+              [
+                119.55,
+                19.9,
+                31.2
+              ],
+              [
+                119.55,
+                19.6,
+                31.2
+              ],
+              [
+                119.55,
+                19.3,
+                31.2
+              ],
+              [
+                119.5,
+                19.3,
+                5.0
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
